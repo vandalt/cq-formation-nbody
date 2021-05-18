@@ -1,3 +1,4 @@
 nbody
 *.mol
-
+.ccls-cache/
+perf.data*
